@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/tools">
+        <file alias="color">color-palette.png</file>
+        <file alias="open">folder.png</file>
+        <file alias="save">save.png</file>
+    </qresource>
+</RCC>
